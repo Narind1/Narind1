@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narind1&label=Profile%20views&color=0e75b6&style=flat" alt="narind1" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/Narind1ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Narind1)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narind-verma-09846b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narind-verma-09846b282" height="30" width="40" /></a>
