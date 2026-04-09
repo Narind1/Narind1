@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=narind1&label=Profile%20views&color=0e75b6&style=flat" alt="narind1" /> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=narind1&theme=onedark&no-frame=true&row=1&column=6" />
-  </a>
-</p>
-
+![trophy](https://github-profile-trophy.vercel.app/?username=narind1)
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/narind-verma-09846b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narind-verma-09846b282" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/narind verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="narind verma" height="30" width="40" /></a>
